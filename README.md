@@ -1,4 +1,4 @@
-# Hello!
+# Hello! 
 
 <center>
 
@@ -28,7 +28,10 @@ Throughout my career, I’ve found that every challenge can be overcome with a s
 
 </center>
 
-###   <center> Thanks for visiting my page! </center>
+<center>
+
+  ### Thanks for visiting my page! 
+</center>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/maxmay94/count.svg" alt="90's visit counter">
