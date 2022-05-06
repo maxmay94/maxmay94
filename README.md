@@ -12,6 +12,12 @@ Throughout my career, I’ve found that every challenge can be overcome with a s
 
 </center>
 
+## Connect With Me
+
+[My Personal Portfolio](maxmay.xyz) <br />
+[LinkedIn](https://www.linkedin.com/in/maximillian-may/) 
+
+
 ## <center> Proficiencies: </center>
 
 <center>
