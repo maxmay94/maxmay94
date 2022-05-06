@@ -1,5 +1,9 @@
 # Hello! 
 
+<p align="center">
+  <img width="900" src="https://imgur.com/9JqaMxn.gif" alt="fuzz">
+</p>
+
 <center>
 
 I'm Max—bartender in a past life, software engineer in the present. When I'm not writing code, you might find me mixing drinks, making music, or hurtling down a mountain on my snowboard.
