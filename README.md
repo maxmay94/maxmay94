@@ -14,7 +14,7 @@ Throughout my career, I’ve found that every challenge can be overcome with a s
 
 ## Connect With Me
 
-[My Personal Portfolio](maxmay.xyz) <br />
+[My Personal Portfolio](https://maxmay.netlify.app/) <br />
 [LinkedIn](https://www.linkedin.com/in/maximillian-may/) 
 
 
