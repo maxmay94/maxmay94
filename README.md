@@ -6,7 +6,7 @@
 
 <center>
 
-I'm Max—bartender in a past life, software engineer in the present. When I'm not writing code, you might find me mixing drinks, making music, or hurtling down a mountain on my snowboard.
+Hey! I'm Max—bartender in a past life, software engineer in the present. When I'm not writing code, you might find me mixing drinks, making music, or hurtling down a mountain on my snowboard.
 
 Throughout my career, I’ve found that every challenge can be overcome with a solid work ethic, strong communication, and a committed team. I love finding interesting solutions to tough coding problems. I’m bringing my creativity, curiosity, and ambition to software engineering.
 
