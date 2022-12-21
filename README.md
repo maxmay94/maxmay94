@@ -12,10 +12,13 @@ Throughout my career, I’ve found that every challenge can be overcome with a s
 
 </center>
 
+<center>
+
 ## Connect With Me
 
 [My Personal Portfolio](https://maxmay.netlify.app/) <br />
 [LinkedIn](https://www.linkedin.com/in/maximillian-may/) 
+</center>
 
 
 ## <center> Proficiencies: </center>
@@ -41,10 +44,17 @@ Throughout my career, I’ve found that every challenge can be overcome with a s
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 </center>
 
+
+<center>
+
   ### Thanks for visiting my page! 
+</center>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/maxmay94/count.svg" alt="90's visit counter">
